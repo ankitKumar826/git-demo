@@ -1,4 +1,4 @@
-# git-demo
+clear# git-demo
 This my first git repository.
 <br>
-Author - Ankit Kumar
+Author - Ankit Kumar(Modified)
